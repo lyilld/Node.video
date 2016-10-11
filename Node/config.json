@@ -1,0 +1,9 @@
+{
+	"mode": "development",
+	"forceDownload": false,
+	"rootFolder": "torrents/",
+	"rootPath": "",
+	"server": "Hypertube/1.0.0",
+	"maxAge": "3600",
+	"throttle": false
+}
